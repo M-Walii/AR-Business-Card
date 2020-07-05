@@ -13,8 +13,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Unity 2019.3f.5f1 Vuforia SDK Wit.ai
+
 Vuforia Login
+
 Vuforia Key Generation
+
 Vuforia Database
 
 ### Installing
